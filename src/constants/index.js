@@ -34,11 +34,11 @@ export const PROJECTS = [
     technologies: ["Oracle", "APEX", "Javascript", "CSS", "SQL"],
   },
   {
-    title: "Automação de Processos",
+    title: "Apontamento de Horas",
     image: project2,
     description:
-      "Automação de processos utilizando a plataforma N8n, com intuito de trazer mais eficiência ao gerenciamento de leads.",
-    technologies: ["N8n", "Javascript", "Google Cloud"],
+      "Uma aplicação voltada ao controle de apontamento de horas, com foco na organização individual e na visão gerencial simplificada.",
+    technologies: ["Oracle", "APEX", "Javascript", "SQL"],
   },
   {
     title: "Escala Ministério de Louvor",
@@ -55,16 +55,16 @@ export const PROJECTS = [
     technologies: ["React", "Javascript", "HTML", "CSS"],
   },
   {
-    title: "Gestão de Estacionamento",
+    title: "Automação de Processos",
     image: project5,
     description:
-      "Sistema de gerenciamento de Estacionamento, com uma interface intuitiva, permitindo gerenciar a entrada e saída de veículos de forma eficiente.",
-    technologies: ["Oracle", "APEX", "Javascript", "SQL"],
+      "Automação de processos utilizando a plataforma N8n, com intuito de trazer mais eficiência ao gerenciamento de leads.",
+    technologies: ["N8n", "Javascript", "Google Cloud"],
   },
 ];
 
 export const CONTACT = {
-  address: "Rua Guarujá, Canoas, RS 10153 ",
-  phoneNo: "+55 51 98494 4944",
-  email: "jmellodemelo@gmail.com",
+  address: "Canoas",
+  phoneNo: "+5551",
+  email: "jonathan",
 };
